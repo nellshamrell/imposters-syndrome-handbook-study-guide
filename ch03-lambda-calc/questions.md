@@ -8,4 +8,4 @@
 
 ## Label the parts of this function
 
-\lambda x.x
+&#955; x.x
